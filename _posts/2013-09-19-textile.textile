@@ -1,0 +1,7 @@
+---
+layout: default
+title: How I failed.
+---
+h1. {{ page.title }}
+
+I failed because I failed.
