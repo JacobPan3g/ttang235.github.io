@@ -7,24 +7,8 @@
 		
 	</head>
 	<body>
-		<!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/ttang235/jekyll_demo">View on GitHub</a>
-
-          <h1 id="project_title">My Blog</h1>
-          <h2 id="project_tagline"></h2>
-
-        </header>
-    </div>
-		{{ content }}
-
-		<!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Maintained by <a href="https://github.com/ttang235">ttang235</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+		<div id="main_content">
+			{{ content }}
+		</div>
 	</body>
 </html>
