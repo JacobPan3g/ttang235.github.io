@@ -7,6 +7,9 @@
 	margin-left:-450px;
 	background: dimgrey;
 }
+.post{
+	background: lightgrey;
+}
 .horizontal_block {
 	float:left;
 	clear: both;
