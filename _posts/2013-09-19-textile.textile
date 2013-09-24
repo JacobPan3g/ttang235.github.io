@@ -1,7 +1,5 @@
 ---
 layout: post
-title: How I failed.
+title: Test Textile
 ---
-h1. {{ page.title }}
-
-I failed because I failed.
+This is a blog in textile format.
