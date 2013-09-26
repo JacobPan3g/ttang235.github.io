@@ -1,1 +1,6 @@
 baseurl: /
+name: Name
+pygments: true
+title: Title
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
