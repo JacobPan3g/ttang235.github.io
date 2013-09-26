@@ -1,5 +1,5 @@
 ---
-style: post
+layout: post
 title: 判断一个数n的二进制表达的最高非0位的位置
 categories: algorithm
 ---
