@@ -4,3 +4,14 @@ title: test markdown
 categories: test
 ---
 This *is* a simple test for **markdown**!
+
+test hightlight
+``` ruby
+require 'rubygems'
+
+def foo
+puts 'foo'
+end
+
+#comment
+```
