@@ -16,3 +16,7 @@ end
 
 #comment
 ```
+
+```c++
+printf("this %d post is for test", 1);
+```
