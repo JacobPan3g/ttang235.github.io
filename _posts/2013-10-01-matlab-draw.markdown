@@ -3,7 +3,9 @@ layout: post
 title: Create a Beautiful Bar Graph with Text Label Using Matlab
 categories: utilities
 ---
-I need a bar graph with text labels, not numbers. So I searched, and found [this](http://www.mathworks.cn/support/solutions/en/data/1-15TK6/). I made some minor revisions, and got a figure like this:![A pretty-looking bar graph](/images/2013-10-01-barGraph.png "Title for this PNG")
+I need a bar graph with text labels, not numbers. So I searched, and found [this](http://www.mathworks.cn/support/solutions/en/data/1-15TK6/). I made some minor revisions, and got a figure like this:
+
+![A pretty-looking bar graph](/images/2013-10-01-barGraph.png "Title for this PNG")
 
 The code is given below. Feel free to use it.
 
@@ -66,3 +68,4 @@ tl = text(XMidPoint,LowYPoint,'X-Axis Label', ...
 
 I would recommend you execute those lines one by one to understand what each line is for. And, you may want to have a look at what the original file is like. It could also help you to understand the code.
 
+ps: When inserting matlab code, use \`\`\`matlab, instead of \`\`\`Matlab. Otherwise, you would get disappointing 'Page Build Failure' message and have a hard time to debug, like me.
