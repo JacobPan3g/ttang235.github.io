@@ -6,7 +6,7 @@ categories: utilities
 I need a bar graph with text labels, not numbers. So I searched, and found [this](http://www.mathworks.cn/support/solutions/en/data/1-15TK6/). I made some minor revisions, and got a figure like this:![A pretty-looking bar graph](/images/2013-10-01-barGraph.png "Title for this PNG")
 
 The code is given below. Feel free to use it.
-<!---
+
 ```Matlab
 f=[578.047,2.375,16.609,102.172,2.375,304.61,68.39];
 x = 1:length(f);
@@ -63,6 +63,6 @@ tl = text(XMidPoint,LowYPoint,'X-Axis Label', ...
 'VerticalAlignment','top', ...
 'HorizontalAlignment','center');
 ```
--->
+
 I would recommend you execute those lines one by one to understand what each line is for. And, you may want to have a look at what the original file is like. It could also help you to understand the code.
 
