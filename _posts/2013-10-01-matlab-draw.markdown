@@ -7,7 +7,7 @@ I need a bar graph with text labels, not numbers. So I searched, and found [this
 
 The code is given below. Feel free to use it.
 
-```Matlab
+```matlab
 f=[578.047,2.375,16.609,102.172,2.375,304.61,68.39];
 x = 1:length(f);
 
