@@ -1,7 +1,8 @@
 .highlight{ 
 	background: lightgrey; 
 	color: black; 
-	font-size: 16px; 
+	font-size: 17px; 
+	font-family: Consolas;
 	margin:5px 50px 5px 50px;/*not padding. up, right, down, left*/
 } /*original background is white; this color attr is added by me, otherwise this will inherit from the body--'white'; fontsize attr is also added by me*/
 .highlight .c {
