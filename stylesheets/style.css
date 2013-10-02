@@ -29,7 +29,7 @@ body {
 	color: white;
 	background: darkcyan;
 }
-img { margin: 0px; padding: 0px; border: none; }
+img { margin: 0px 0px 0px 80px; padding: 0px; border: none; }
 img.photo {
 	width:260px;
 	height:200px;
