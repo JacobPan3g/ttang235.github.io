@@ -3,7 +3,7 @@
 	color: black; 
 	font-size: 17px; 
 	font-family: Consolas, Verdana;
-	margin:5px 50px 5px 50px;/*not padding. up, right, down, left*/
+	margin:5px 80px 5px 80px;/*not padding. up, right, down, left*/
 } /*original background is white; this color attr is added by me, otherwise this will inherit from the body--'white'; fontsize attr is also added by me*/
 .highlight .c {
 	color: darkgreen;/*#999988; */
