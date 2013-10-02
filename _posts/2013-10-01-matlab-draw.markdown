@@ -4,7 +4,7 @@ title: Create a Beautiful Bar Graph with Text Label Using Matlab
 categories: utilities
 ---
 I need a bar graph with text labels, not numbers. So I searched, and found [this](http://www.mathworks.cn/support/solutions/en/data/1-15TK6/). I made some minor revisions, and got a figure like this:
-<img src="/images/2013-10-01-barGraph.png" class="centeredImage" alt="a pretty bar graph" height="100" width="100">
+<img src="/images/2013-10-01-barGraph.png" alt="a pretty bar graph">
 
 
 The code is given below. Feel free to use it.
