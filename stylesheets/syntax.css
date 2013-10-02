@@ -4,7 +4,10 @@
 	font-size: 16px; 
 	padding:5px 50px 5px 50px;/*up, right, down, left*/
 } /*original background is white; this color attr is added by me, otherwise this will inherit from the body--'white'; fontsize attr is also added by me*/
-.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .c {
+	color: darkgreen;/*#999988; */
+	font-style: italic 
+} /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
 .highlight .o { font-weight: bold } /* Operator */
