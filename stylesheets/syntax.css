@@ -2,7 +2,7 @@
 	background: lightgrey; 
 	color: black; 
 	font-size: 17px; 
-	font-family: Consolas;
+	font-family: Consolas, Verdana;
 	margin:5px 50px 5px 50px;/*not padding. up, right, down, left*/
 } /*original background is white; this color attr is added by me, otherwise this will inherit from the body--'white'; fontsize attr is also added by me*/
 .highlight .c {
@@ -14,7 +14,7 @@
 .highlight .o { font-weight: bold } /* Operator */
 .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
-.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .c1 { color: darkgreen; font-style: italic } /* Comment.Single */
 .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
 .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
 .highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
