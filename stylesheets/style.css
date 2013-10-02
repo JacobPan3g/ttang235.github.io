@@ -35,6 +35,10 @@ img.photo {
 	height:200px;
 	float:left;
 }
+.centeredImage{
+    text-align:center;
+    display:block;
+}
 table {
 	border-spacing: 20px 10px;
 }
