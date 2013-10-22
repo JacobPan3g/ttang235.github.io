@@ -4,12 +4,12 @@ title: 想在Windows下用Linux的命令？
 categories: utility
 ---
 下面是一些软件包：
+
 * [http://unxutils.sourceforge.net/](http://unxutils.sourceforge.net/)
 * [http://gnuwin32.sourceforge.net/packages/util-linux-ng.htm](http://gnuwin32.sourceforge.net/packages/util-linux-ng.htm)
 * [http://www.cyberciti.biz/faq/unix-command-line-utilities-for-windows/](http://www.cyberciti.biz/faq/unix-command-line-utilities-for-windows/)
 
-但是貌似我常用的head, lc(line count)都没有，难道是因为太简单？
-
+我试着实现了两个简单的、常用的命令：head和lc
 
 下面这段代码实现了一个简单的head命令(head.c)
 {% highlight c %}
