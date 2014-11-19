@@ -1,0 +1,5 @@
+---
+layout: post
+title: Test Textile
+---
+This is a blog in textile format.
