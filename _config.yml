@@ -2,5 +2,6 @@ baseurl: /
 name: Name
 highlighter: rouge
 title: Title
-# remote_theme: poole/lanyon
-theme: jekyll-theme-cayman
+# remote_theme: poole/lanyon # doesn't work
+# theme: jekyll-theme-cayman # not applicable to posts :(
+theme: minima
