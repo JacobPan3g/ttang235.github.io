@@ -1,7 +1,9 @@
 baseurl: /
-name: Name
+author: ttang235
 highlighter: rouge
 title: Learn. Share. Repeat.
 # remote_theme: poole/lanyon # doesn't work
 # theme: jekyll-theme-cayman # not applicable to posts :(
 theme: minima
+
+github_username: ttang235
