@@ -1,4 +1,4 @@
 baseurl: /
 name: Name
-pygments: true
+highlighter: rouge
 title: Title
