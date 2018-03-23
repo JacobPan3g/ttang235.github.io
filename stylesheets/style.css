@@ -24,7 +24,7 @@ body {
 	margin: 0;
 	padding: 0;
 	line-height: 1.5em;
-	font-family: cursive, Georgia, "Times New Roman", Times, serif;
+	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 20px;
 	color: white;
 	background: darkcyan;
@@ -45,7 +45,7 @@ table {
 h1
 {
 color:orange;
-font-family:cursive,verdana,"Times New Roman",仿宋;
+font-family: verdana,"Times New Roman",仿宋;
 text-align:center;
 }
 p
