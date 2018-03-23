@@ -1,7 +1,4 @@
 baseurl: /
 name: Name
-markdown: redcarpet
 pygments: true
 title: Title
-redcarpet:
-    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
