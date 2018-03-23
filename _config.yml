@@ -2,4 +2,5 @@ baseurl: /
 name: Name
 highlighter: rouge
 title: Title
-remote_theme: poole/lanyon
+# remote_theme: poole/lanyon
+theme: cayman
