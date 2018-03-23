@@ -2,3 +2,4 @@ baseurl: /
 name: Name
 highlighter: rouge
 title: Title
+remote_theme: poole/lanyon
