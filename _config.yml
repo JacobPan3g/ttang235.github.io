@@ -3,4 +3,4 @@ name: Name
 highlighter: rouge
 title: Title
 # remote_theme: poole/lanyon
-theme: cayman
+theme: jekyll-theme-cayman
