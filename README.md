@@ -1,3 +1,3 @@
-my blog
-===========
-This is a test readme file.
+My Blog
+=======
+Here: http://fstang.me
