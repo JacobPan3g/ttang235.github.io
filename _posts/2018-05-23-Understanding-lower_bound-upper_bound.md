@@ -15,7 +15,7 @@ element in the range [first,last) which compares greater than *val*" (See [API
 reference](http://www.cplusplus.com/reference/algorithm/upper_bound/)).
 
 ![An illustration of lower_bound and
-upper_bound](../images/lower_upper_bound_illustration.png)
+upper_bound](https://github.com/ttang235/ttang235.github.io/raw/master/images/lower_upper_bound_illustration.png)
 
 In essence, lower_bound and upper_bound are both doing binary search. But why do
 we need two functions for one algorithm?
